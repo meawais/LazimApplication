@@ -1,6 +1,6 @@
 # Lazim Application Task Manager
 
-1. Clone the project repository to your local machine: git clone <repository_url>
+1. Clone the project repository to your local machine: git clone https://github.com/meawais/LazimApplication.git
 2. Navigate to the project directory: cd <project_directory>
 3. composer install
 4. Create a copy of the .env.example file and rename it to .env: cp .env.example .env
